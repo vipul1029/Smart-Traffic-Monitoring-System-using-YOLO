@@ -24,7 +24,7 @@ The system processes video input, identifies vehicles, and displays output with 
 - NumPy  
 
 ---
-
+```
 ## 📂 Project Structure
 
 Smart-Traffic-Monitoring-System-using-YOLO/
@@ -34,7 +34,7 @@ Smart-Traffic-Monitoring-System-using-YOLO/
 ├── yolov8n.pt # Pre-trained YOLO model
 ├── vehicle_output.jpg # Sample output
 └── README.md
-
+```
 
 ---
 
